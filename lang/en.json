@@ -1,0 +1,61 @@
+{
+    "var_years_experience": "1",
+    "var_completed_projects": "3",
+    "var_companies_worked": "1",
+
+    "contact_title": "Contact Me",
+    "about_title": "About",
+    "skills_title": "Skills",
+    "qualification_title": "Qualification",
+    "portfolio_title": "Portfolio",
+
+    "qualification_subtitle": "My persoanl Journey",
+    "about_subtitle": "My Introduction",
+
+    "w_years": "Years",
+    "w_experience": "Experience",
+    "w_completed": "Completed",
+    "w_projects": "Projects",
+    "w_companies": "Companies",
+    "w_worked": "Worked",
+    "w_skillset": "Skillset",
+    "w_my_skillset": "My skillsets",
+    "w_education": "Education",
+
+    "home_welcome": "Welcome to my Portfolio Website!",
+    "home_title": "Hey I'm",
+    "home_bio": "A data scientist enthusiast about technology and AI.",
+
+    "about_description": "Data scientist with hands-on experience in AI projects and data analysis.",
+    "cv": "Resume",
+
+    "q1_start_date": "2024",
+    "q1_title": "Data Science",
+    "q1_subtitle": "Soy Henry Bootcamp",
+    "q1_description": "Gave me proficiency in Python, utilizing libraries such as NumPy and Pandas for data manipulation and analysis. Data Visualization, Big Data, Machine Learning, Data Engineering, and more",
+
+    "q2_start_date": "2024",
+    "q2_title": "Bachelor of Computer Science",
+    "q2_subtitle": "National University of San Juan",
+    "q2_description": "skills en las que mejoré...",
+
+    "q3_start_date":  "2023",
+    "q3_end_date":  "2021",
+    "q3_title":  "University Technique in Software Development",
+    "q3_subtitle":  "ULP - Universidad de La Punta",
+    "q3_description": "I learned about web development, software engineering, OOP with Java, SQL, and more, technical English.",
+
+    "q4_start_date": "2021",
+    "q4_end_date": "2025",
+    "q4_title":  "University Technique in Software Development",
+    "q4_subtitle":  "ULP - Universidad de La Punta",
+    "q4_description": "lo que aprendí (bases de datos SQL, ingeniería de software, desarrollo web, inglés técnico, desarrollo de proyectos, POO con Java, etc.)",
+
+    "exp1_start_date": "Apr. 2025",
+    "exp1_end_date": "Jun. 2025",
+    "exp1_title": "Intern",
+    "exp1_company": "Software Factory AI",
+    "exp1_description": "lo que hice aquí",
+
+    "footer_subtitle": "Data Scientist, Data Engineer y Machine Learning Engineer"
+}
