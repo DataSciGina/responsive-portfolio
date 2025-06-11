@@ -8,9 +8,11 @@
     "skills_title": "Skills",
     "qualification_title": "Qualification",
     "portfolio_title": "Portfolio",
+    "contact_title": "Contact Me",
 
     "qualification_subtitle": "My persoanl Journey",
     "about_subtitle": "My Introduction",
+    "portfolio_subtitle": "My most recent works",
 
     "w_years": "Years",
     "w_experience": "Experience",
@@ -21,6 +23,8 @@
     "w_skillset": "Skillset",
     "w_my_skillset": "My skillsets",
     "w_education": "Education",
+    "w_mail": "E-mail",
+    "w_address": "Address",
 
     "home_welcome": "Welcome to my Portfolio Website!",
     "home_title": "Hey I'm",
@@ -57,5 +61,25 @@
     "exp1_company": "Software Factory AI",
     "exp1_description": "lo que hice aquí",
 
-    "footer_subtitle": "Data Scientist, Data Engineer y Machine Learning Engineer"
+    "project_btn": "More",
+    "demo_btn": "Demo",
+
+    "project_1_date": "Comming soon",
+    "project_1_title": "Gina - ChatBot",
+    "project_1_description": "Designed a chatbot to my portfolio able to answer questions about my portfolio, my technology stack, projects, work experience and studies.",
+    
+    "project_2_date": "November 2025",
+    "project_2_title": "Google-Yelp",
+    "project_2_description": "Analysis of the Gastronomic Market in Tampa, Florida",
+    
+    "contact_action_call": "Get in touch",
+    "contact_call_me": "Call Me",
+    "contact_number": "+54 9 264 5873 482",
+    "contact_mail": "fernandezagostina.ra@gmail.com",
+    "contact_address": "Juana Koslay, San Luis - Argentina",
+
+    "contact_form_title": "Interested to work together? Let's talk!",
+    
+    "footer_subtitle": "Data Scientist, Data Engineer y Machine Learning Engineer",
+    "footer_copy": "&#169; Agostina Fernández. All rights reserved"
 }
