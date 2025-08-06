@@ -6,7 +6,7 @@ interface PageProps {
 
 
 export default async function Home({ params }: PageProps) {
-  const t = await getTranslations( await params.lang)
+  const t = await getTranslations(await params.lang)
 
   return (
       <main className="flex flex-col gap-8 row-start-2 items-center">
